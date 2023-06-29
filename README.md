@@ -39,7 +39,7 @@ Note we are installing the branch "nnunetv1" from the repo. If you just clone fr
 ## Pretrained Models
 
 The pretrained models can be downloaded at the following Drive link (if it isnt working for some reason contact me at aidancolmboyd@gmail.com):
-https://drive.google.com/file/d/1_LNNiEv2ZP3XGGP7GokzoS98wAeOhLCj/view?usp=sharing
+https://drive.google.com/file/d/1cbi3p9IoKWjKR-pl3yXde6ISx4hZy2DB/view?usp=sharing
 Unzip this file, the unzipped folder should be named nnUNet_trained_models. Dont change the locations of any of the files inside.
 If there is some error referring to a zip bomb (I think its something to do with number of files?) then just restart the command like this:
 ```bash
