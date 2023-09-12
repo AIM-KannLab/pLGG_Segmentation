@@ -65,3 +65,6 @@ Where <task number> should be set as follows:
   -- 889 for models fine tuned on peds data (using adult models as starting point)
   -- 871 (best) for models where we fine tune, then freeze the encoder and continue training
 Output masks will be named <scan>.nii.gz in the folder you specified in th -o parameter.
+
+## Using Docker
+To run inference in Docker, please refer to this repo: https://github.com/AIM-KannLab/pLGG_Segmentation_docker 
