@@ -66,6 +66,9 @@ Where <task number> should be set as follows:
   -- 871 (best) for models where we fine tune, then freeze the encoder and continue training
 Output masks will be named <scan>.nii.gz in the folder you specified in th -o parameter.
 
+## Docker image
+https://github.com/AIM-KannLab/pLGG_Segmentation_docker
+
 ## Citation
 
 If you find this repo useful, please cite:
